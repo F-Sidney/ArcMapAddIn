@@ -1,0 +1,9 @@
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\bin\Debug\ImportXML.dll
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\bin\Debug\ImportXML.pdb
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\obj\Debug\ImportXML.DockableWindow1.resources
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\obj\Debug\ImportXML.dll
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\obj\Debug\ImportXML.pdb
+D:\Code\AE\XMLWorkspaceImport\ArcMapAddin1\bin\Debug\ImportXML.esriAddIn

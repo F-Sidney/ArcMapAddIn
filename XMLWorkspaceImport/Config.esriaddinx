@@ -1,0 +1,22 @@
+﻿<ESRI.Configuration xmlns="http://schemas.esri.com/Desktop/AddIns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Name>ImportXMLWorkspace</Name>
+  <AddInID>{2f1f7f9d-bccf-4dff-aeac-0d9e6ac353a6}</AddInID>
+  <Description>Import xml workspace document in a folder every 10 seconds to a file GDB</Description>
+  <Version>1.0</Version>
+  <Image>Images\XMLWorkspaceImport.png</Image>
+  <Author>SidneyN</Author>
+  <Company>Sidney@elance</Company>
+  <Date>2012/6/22</Date>
+  <Targets>
+    <Target name="Desktop" version="10.0" />
+  </Targets>
+  <AddIn language="CLR" library="XMLWorkspaceImport.dll" namespace="XMLWorkspaceImport">
+    <ArcMap>
+      <DockableWindows>
+        <DockableWindow id="Sidney_at_elance_XMLWorkspaceImport_ImportXML" class="ImportXML+AddinImpl" caption="Import XML Setting" image="Images\ImportXML.png">
+          <InitialPlacement height="300" width="300" state="pinned" position="left" />
+        </DockableWindow>
+      </DockableWindows>
+    </ArcMap>
+  </AddIn>
+</ESRI.Configuration>

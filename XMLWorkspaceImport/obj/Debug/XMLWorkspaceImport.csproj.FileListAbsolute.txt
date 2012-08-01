@@ -1,0 +1,9 @@
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\bin\Debug\XMLWorkspaceImport.dll
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\bin\Debug\XMLWorkspaceImport.pdb
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\obj\Debug\ResolveAssemblyReference.cache
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\obj\Debug\XMLWorkspaceImport.ImportXML.resources
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\obj\Debug\XMLWorkspaceImport.dll
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\obj\Debug\XMLWorkspaceImport.pdb
+D:\Code\AE\XMLWorkspaceImport\XMLWorkspaceImport\bin\Debug\XMLWorkspaceImport.esriAddIn
